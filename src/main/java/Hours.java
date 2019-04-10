@@ -19,4 +19,12 @@ public class Hours {
     public static int twelveAM() {
         return 8;
     }
+
+    public static int sixPM() {
+        return 2;
+    }
+
+    public static int oneAM() {
+        return 9;
+    }
 }
